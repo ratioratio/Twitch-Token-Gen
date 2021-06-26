@@ -1,5 +1,5 @@
 # Twitch-Token-Gen
-A twitch oauth (token) generator I made in like under a minute
+A twitch oauth (token) generator I made in like under a minute in python
 
 
 
